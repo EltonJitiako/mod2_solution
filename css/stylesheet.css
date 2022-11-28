@@ -24,6 +24,7 @@ h1{
 .section{
   position: relative;
   border: 1px solid black;
+  background-color: grey;
   overflow: hidden;
   height: 200px;
 }
